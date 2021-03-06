@@ -8,7 +8,6 @@ cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.14
 distlib==0.3.1
-de-core-news-sm==2.3.0
 docopt==0.6.2
 filelock==3.0.12
 freeze==3.0
@@ -55,3 +54,4 @@ wasabi==0.7.1
 wordcloud==1.8.1
 yarg==0.1.9
 zipp==3.1.0
+pip install https://github.com/explosion/spacy-models/releases/download/de_core_web_sm-3.2.0/de_core_web_sm-3.2.0.tar.gz
