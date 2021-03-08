@@ -10,7 +10,6 @@ Cython==0.29.14
 distlib==0.3.1
 docopt==0.6.2
 filelock==3.0.12
-freeze==3.0
 funcy==1.15
 future==0.18.2
 gensim==3.8.3
