@@ -41,8 +41,7 @@ scipy==1.6.1
 six==1.15.0
 sklearn==0.0
 smart-open==4.2.0
-spacy==2.3.2
-spacy==2.2.4
+spacy
 srsly==1.0.2
 thinc==7.4.1
 threadpoolctl==2.1.0
