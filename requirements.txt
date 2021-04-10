@@ -53,6 +53,7 @@ wasabi==0.7.1
 wordcloud==1.8.1
 yarg==0.1.9
 zipp==3.1.0
+Libvoikko==3.8.1
 https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-2.3.0/de_core_news_sm-2.3.0.tar.gz
 https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-2.3.0/fr_core_news_sm-2.3.0.tar.gz
 https://github.com/aajanki/spacy-fi/releases/download/v0.4.1/spacy_fi_experimental_web_md-0.4.1.tar.gz
